@@ -1,0 +1,6 @@
+{
+  "name": "Qadimgi Misr Tarixi",
+  "description": "Qadimgi Misr sivilizatsiyasi, fir'avnlar, ehromlar me'morchiligi, ierogliflar va Nil madaniyatiga bag'ishlangan interaktiv ta'limiy va ilmiy portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
